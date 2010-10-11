@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+auto_indent_after_error	ttrain.cpp	23;"	v
+countSize	ttrain.cpp	48;"	p	file:
+currChar	ttrain.cpp	31;"	v
+currLine	ttrain.cpp	30;"	v
+currentString	ttrain.cpp	255;"	v	file:
+currentSymb	ttrain.cpp	256;"	v
+cursesException	ttrain.h	20;"	c
+drawOriginalText	ttrain.cpp	17;"	p	file:
+drawStatistics	ttrain.cpp	19;"	p	file:
+drawTypedText	ttrain.cpp	18;"	p	file:
+endOfFile	ttrain.cpp	522;"	v	file:
+errors	ttrain.cpp	36;"	v
+handleTyped	ttrain.cpp	20;"	p	file:
+inFile	ttrain.cpp	25;"	v
+indentSize	ttrain.cpp	28;"	v
+initTyped	ttrain.cpp	21;"	p	file:
+l_ch_d_current	ttrain.cpp	45;"	v
+l_ch_duration	ttrain.cpp	46;"	v
+last_current_speed	ttrain.cpp	399;"	v	file:
+maxErrors	ttrain.cpp	37;"	v
+nstopped_time_period	ttrain.cpp	42;"	v
+rightField	ttrain.cpp	33;"	v
+startCounter	ttrain.cpp	400;"	v	file:
+statisticsWidth	ttrain.cpp	34;"	v
+symbNum	ttrain.cpp	41;"	v
+timeSum	ttrain.cpp	40;"	v
+totalSymbCount	ttrain.cpp	38;"	v
+tqueue	ttrain.cpp	26;"	v
+verticalFields	ttrain.cpp	32;"	v

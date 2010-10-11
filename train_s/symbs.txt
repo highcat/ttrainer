@@ -1,0 +1,22 @@
+~!=23, ;+3379
+
+[ -> >> { -fomit-frame-pointer} *(hellox->string()).think((x=14)!=55); and uff~]
+`=#$$`=#$$`=#$$!!``!! !! `` ! ` # = $ 
+
+#! /bin/sh
+
+for i in `find ./`
+  do if [ -f $i ]
+      then chmod a-x $i
+  fi
+done
+
+#! /bin/sh
+
+for i in `find ./`
+  do if [ -f $i ]
+      then chmod a-x $i
+  fi
+done
+
+`~=~ff [${ffff}]
