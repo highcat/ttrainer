@@ -1,0 +1,12 @@
+Typewriter trainer written with ncurses.
+
+* Gets a file as a parameter - and then you'll have to type it.
+* Supports 'C-j' and 'C-m' keybindings like in Emacs.
+* Counts current and average typing speed
+* Saves your achievements to ~/ttrain.log
+
+
+Working on Linux, looks like working on Win32.
+Don't get scared - this code is from my early student years.
+
+© HighCat, 2011
